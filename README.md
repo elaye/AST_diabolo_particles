@@ -1,10 +1,10 @@
 Visual part of the AST interactive diabolo project
 ==================================================
 
-This program is part of a project we realized with Thomas Moncond'huy as master students.
+This program is part of a project we realized as master students.
 The goal of the project was to make an interactive diabolo, and this program is the visual part of the project.
 
-The diabolo and the person's arms are tracked using a program available [here](www.example.com) and the positions of the diabolo and the arms are sent to this program via OSC.
+The diabolo and the person's arms are tracked using a program available [here](https://github.com/elaye/AST_diabolo_tracking) and the positions of the diabolo and the arms are sent to this program via OSC.
 However, you can test the particle system as you can move the attractors with the mouse.
 
 ![example1](img1.png)
