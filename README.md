@@ -27,3 +27,5 @@ And run it with:
 
 It uses the `ofxOsc` addon so it must be present in the `addons` directory of your openFrameworks directory.
 It also uses unofficial addons given in the addons directory of the project to avoid version compatibility issues.
+
+You can change the number of particles by changing `NUM_PARTICLES` constant in the `ParticlesSystem.h` file and recompiling the program.
